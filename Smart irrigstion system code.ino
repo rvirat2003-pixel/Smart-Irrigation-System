@@ -1,3 +1,8 @@
+/*
+ * Project: Smart Irrigation System
+ * Author: Vishal Rajput
+ * Description: IoT-based irrigation with regenerative braking integration.
+ */
 #define BLYNK_TEMPLATE_ID "TMPL3H9ooStI1"
 #define BLYNK_TEMPLATE_NAME "smart irrigation system"
 
